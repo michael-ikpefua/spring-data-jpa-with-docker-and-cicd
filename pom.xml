@@ -49,6 +49,9 @@
 	</dependencies>
 
 	<build>
+		<finalName>
+			decadevs-docker-michael
+		</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
